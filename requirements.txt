@@ -6,4 +6,4 @@ plotly
 yfinance
 reportlab
 matplotlib
-vnstock3
+
