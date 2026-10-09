@@ -1,9 +1,9 @@
 streamlit
 pandas
 numpy
-plotly
 requests
-vnstock
+plotly
 yfinance
 reportlab
 matplotlib
+vnstock3
